@@ -1,4 +1,4 @@
-// Practical rep of auto keyword to initiaize datatype at compilation 
+// Practical rep of auto keyword to initiaize datatype at compilation  done..
 #include<iostream>
 using namespace std;
 int main()
